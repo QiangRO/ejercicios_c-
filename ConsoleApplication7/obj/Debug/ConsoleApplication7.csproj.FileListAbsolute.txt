@@ -1,0 +1,32 @@
+C:\Users\universitario\Desktop\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\universitario\Desktop\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+C:\Users\universitario\Desktop\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\universitario\Desktop\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\universitario\Desktop\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\universitario\Desktop\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+E:\DOTA 2\Yamil\MENU\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+E:\DOTA 2\Yamil\MENU\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+E:\DOTA 2\Yamil\MENU\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+E:\DOTA 2\Yamil\MENU\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojAssemblyReference.cache
+E:\DOTA 2\Yamil\MENU\ConsoleApplication7\obj\Debug\ConsoleApplication7.csproj.CoreCompileInputs.cache
+E:\DOTA 2\Yamil\MENU\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+E:\DOTA 2\Yamil\MENU\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\universitario\Desktop\Yamil\MENU\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\universitario\Desktop\Yamil\MENU\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\universitario\Desktop\Yamil\MENU\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\universitario\Desktop\Yamil\MENU\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\universitario\Desktop\Yamil\MENU\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\universitario\Desktop\Yamil\MENU\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+C:\Users\universitario\Documents\My Web Sites\Yamil2\MENU\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\universitario\Documents\My Web Sites\Yamil2\MENU\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\universitario\Documents\My Web Sites\Yamil2\MENU\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\universitario\Documents\My Web Sites\Yamil2\MENU\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\universitario\Documents\My Web Sites\Yamil2\MENU\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\universitario\Documents\My Web Sites\Yamil2\MENU\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+O:\Alejandro\Descargas\Nueva carpeta (5)\JHAMIL MAYTA QUISBERT\MENU\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+O:\Alejandro\Descargas\Nueva carpeta (5)\JHAMIL MAYTA QUISBERT\MENU\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+O:\Alejandro\Descargas\Nueva carpeta (5)\JHAMIL MAYTA QUISBERT\MENU\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+O:\Alejandro\Descargas\Nueva carpeta (5)\JHAMIL MAYTA QUISBERT\MENU\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojAssemblyReference.cache
+O:\Alejandro\Descargas\Nueva carpeta (5)\JHAMIL MAYTA QUISBERT\MENU\ConsoleApplication7\obj\Debug\ConsoleApplication7.csproj.CoreCompileInputs.cache
+O:\Alejandro\Descargas\Nueva carpeta (5)\JHAMIL MAYTA QUISBERT\MENU\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+O:\Alejandro\Descargas\Nueva carpeta (5)\JHAMIL MAYTA QUISBERT\MENU\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
